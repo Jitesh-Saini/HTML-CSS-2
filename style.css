@@ -1,0 +1,45 @@
+@font-face {
+    font-family: f1;
+    src: url(./Another\ Danger\ -\ Demo.otf);
+}
+
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(./images/horror.png);
+    background-size: cover;
+    background-position: upper;
+    text-align: center;
+}
+#main h1{
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 100px;
+    font-family: f1;
+    font-weight: 100;
+
+}
+
+#main button{
+    display: block;
+    margin: 400px auto 0 625px;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.749);
+    color: red;
+    border: 2px solid red;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px #000000;
+}
