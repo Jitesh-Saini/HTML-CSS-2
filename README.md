@@ -56,7 +56,10 @@ To run this project on your local machine, follow these steps:
 
 -   ** JITESH SAINI **
 -   GitHub: [@Jitesh-Saini](https://github.com/Jitesh-Saini)
+-   
+## 🙏 Credits
 
+-   **Font:** "Another Danger - Demo" by The Branded Quotes.
 
 ## ✨ CSS
 
